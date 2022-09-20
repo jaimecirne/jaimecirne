@@ -2,7 +2,7 @@
 <h3 align="">Just an Information Technology Technician</h3>
 
 <p align="left">
-My background includes web development and IT Infrastructure. I started as a web developer in 2008. A couple of years later, in 2011, I have been as an information technology technician at the Federal University of Rio Grande do Norte. Then, I moved on to work with IT Infrastructure as demands in this field surged. I participated in some scientific research and provided technical support for them. Since late 2018, I have gotten a leadership position in my team.
+My background includes web development and IT Infrastructure. I started as a web developer in 2008. A couple of years later, in 2011, <!--I have been as an information technology technician at the Federal University of Rio Grande do Norte-->. Then, I moved on to work with IT Infrastructure as demands in this field surged. I participated in some scientific research and provided technical support for them. Since late 2018, I have gotten a leadership position in my team.
 I did a professional master's degree in software engineering to improve my knowledge about software development in a neuroscience context and digital game development.
 </p>
 
